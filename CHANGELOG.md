@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/farzaddm/Release-Please-Test-CI/compare/v0.2.0...v0.3.0) (2026-11-05)
+
+
+### Features
+
+* add temp file ([0a0b121](https://github.com/farzaddm/Release-Please-Test-CI/commit/0a0b121696ec2ba57eb1564ab31a9defbac5d4d3))
+
 ## [0.2.0](https://github.com/farzaddm/Release-Please-Test-CI/compare/v0.1.0...v0.2.0) (2026-11-05)
 
 
